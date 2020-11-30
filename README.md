@@ -6,3 +6,5 @@ That the sample set is size appropriate for the limited memory space on the volc
 
 The actual upload to the device requires the command like Korg volca tool
 I no longer have the voca. 
+
+I don't have a volca sample anymore, so this project is unlikely to go anywhere.
